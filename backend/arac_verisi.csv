@@ -1,0 +1,152 @@
+marka,model,yil,km,yakit,vites,fiyat,kaynak
+Ford,Focus,2018,85000,Benzin,Manuel,650000,sentetik
+Ford,Focus,2019,60000,Benzin,Manuel,720000,sentetik
+Ford,Focus,2020,40000,Benzin,Otomatik,810000,sentetik
+Toyota,Corolla,2018,90000,Benzin,Otomatik,750000,sentetik
+Toyota,Corolla,2019,70000,Hibrit,Otomatik,920000,sentetik
+Toyota,Corolla,2020,45000,Hibrit,Otomatik,1050000,sentetik
+Volkswagen,Polo,2018,80000,Benzin,Manuel,580000,sentetik
+Volkswagen,Polo,2019,55000,Benzin,Manuel,650000,sentetik
+Volkswagen,Polo,2020,30000,Benzin,Otomatik,740000,sentetik
+Renault,Clio,2018,95000,Benzin,Manuel,480000,sentetik
+Renault,Clio,2019,72000,Benzin,Manuel,550000,sentetik
+Renault,Clio,2020,50000,Benzin,Otomatik,630000,sentetik
+Hyundai,i20,2018,88000,Benzin,Manuel,500000,sentetik
+Hyundai,i20,2019,65000,Benzin,Manuel,570000,sentetik
+Hyundai,i20,2020,42000,Benzin,Otomatik,660000,sentetik
+BMW,3 Serisi,2018,75000,Benzin,Otomatik,1200000,sentetik
+BMW,3 Serisi,2019,50000,Benzin,Otomatik,1450000,sentetik
+BMW,3 Serisi,2020,30000,Dizel,Otomatik,1700000,sentetik
+Mercedes,C Serisi,2018,80000,Dizel,Otomatik,1300000,sentetik
+Mercedes,C Serisi,2019,55000,Dizel,Otomatik,1550000,sentetik
+Ford,Focus,2015,120000,Benzin,Manuel,420000,sentetik
+Ford,Focus,2016,105000,Benzin,Manuel,460000,sentetik
+Ford,Focus,2017,95000,Benzin,Otomatik,530000,sentetik
+Ford,Focus,2021,25000,Benzin,Otomatik,880000,sentetik
+Ford,Focus,2022,15000,Benzin,Otomatik,950000,sentetik
+Ford,Fiesta,2016,110000,Benzin,Manuel,380000,sentetik
+Ford,Fiesta,2018,80000,Benzin,Manuel,450000,sentetik
+Ford,Fiesta,2020,45000,Benzin,Manuel,560000,sentetik
+Ford,Fiesta,2022,18000,Benzin,Otomatik,680000,sentetik
+Toyota,Corolla,2015,130000,Benzin,Otomatik,580000,sentetik
+Toyota,Corolla,2016,115000,Benzin,Otomatik,640000,sentetik
+Toyota,Corolla,2017,100000,Hibrit,Otomatik,780000,sentetik
+Toyota,Corolla,2021,30000,Hibrit,Otomatik,1100000,sentetik
+Toyota,Corolla,2022,18000,Hibrit,Otomatik,1200000,sentetik
+Toyota,Corolla,2023,8000,Hibrit,Otomatik,1350000,sentetik
+Toyota,Yaris,2016,105000,Benzin,Manuel,420000,sentetik
+Toyota,Yaris,2018,78000,Benzin,Manuel,500000,sentetik
+Toyota,Yaris,2020,42000,Benzin,Otomatik,630000,sentetik
+Toyota,Yaris,2022,15000,Benzin,Otomatik,750000,sentetik
+Volkswagen,Polo,2015,125000,Benzin,Manuel,410000,sentetik
+Volkswagen,Polo,2016,110000,Benzin,Manuel,450000,sentetik
+Volkswagen,Polo,2017,95000,Dizel,Manuel,490000,sentetik
+Volkswagen,Polo,2021,28000,Benzin,Otomatik,800000,sentetik
+Volkswagen,Polo,2022,14000,Benzin,Otomatik,880000,sentetik
+Volkswagen,Golf,2016,108000,Dizel,Manuel,550000,sentetik
+Volkswagen,Golf,2018,82000,Dizel,Otomatik,720000,sentetik
+Volkswagen,Golf,2020,48000,Benzin,Otomatik,890000,sentetik
+Volkswagen,Golf,2022,16000,Benzin,Otomatik,1050000,sentetik
+Renault,Clio,2015,130000,Benzin,Manuel,350000,sentetik
+Renault,Clio,2016,115000,Benzin,Manuel,390000,sentetik
+Renault,Clio,2017,98000,Benzin,Manuel,430000,sentetik
+Renault,Clio,2021,32000,Benzin,Otomatik,680000,sentetik
+Renault,Clio,2022,18000,Benzin,Otomatik,750000,sentetik
+Renault,Megane,2016,112000,Dizel,Manuel,460000,sentetik
+Renault,Megane,2018,85000,Dizel,Otomatik,580000,sentetik
+Renault,Megane,2020,50000,Benzin,Otomatik,720000,sentetik
+Renault,Megane,2022,20000,Benzin,Otomatik,880000,sentetik
+Hyundai,i20,2015,125000,Benzin,Manuel,380000,sentetik
+Hyundai,i20,2016,110000,Benzin,Manuel,420000,sentetik
+Hyundai,i20,2017,95000,Benzin,Manuel,460000,sentetik
+Hyundai,i20,2021,30000,Benzin,Otomatik,700000,sentetik
+Hyundai,i20,2022,16000,Benzin,Otomatik,780000,sentetik
+Hyundai,Tucson,2017,92000,Dizel,Otomatik,820000,sentetik
+Hyundai,Tucson,2019,65000,Dizel,Otomatik,980000,sentetik
+Hyundai,Tucson,2021,35000,Benzin,Otomatik,1200000,sentetik
+Hyundai,Tucson,2023,9000,Benzin,Otomatik,1450000,sentetik
+BMW,3 Serisi,2015,110000,Dizel,Otomatik,980000,sentetik
+BMW,3 Serisi,2016,95000,Dizel,Otomatik,1100000,sentetik
+BMW,3 Serisi,2017,85000,Benzin,Otomatik,1250000,sentetik
+BMW,3 Serisi,2021,32000,Benzin,Otomatik,1850000,sentetik
+BMW,3 Serisi,2022,18000,Benzin,Otomatik,2100000,sentetik
+BMW,5 Serisi,2017,88000,Dizel,Otomatik,1450000,sentetik
+BMW,5 Serisi,2019,62000,Dizel,Otomatik,1750000,sentetik
+BMW,5 Serisi,2021,35000,Benzin,Otomatik,2200000,sentetik
+BMW,5 Serisi,2023,7000,Benzin,Otomatik,2800000,sentetik
+Mercedes,C Serisi,2015,115000,Dizel,Otomatik,1050000,sentetik
+Mercedes,C Serisi,2016,100000,Dizel,Otomatik,1150000,sentetik
+Mercedes,C Serisi,2017,88000,Benzin,Otomatik,1300000,sentetik
+Mercedes,C Serisi,2021,30000,Benzin,Otomatik,1900000,sentetik
+Mercedes,C Serisi,2022,16000,Benzin,Otomatik,2150000,sentetik
+Mercedes,E Serisi,2017,90000,Dizel,Otomatik,1650000,sentetik
+Mercedes,E Serisi,2019,65000,Dizel,Otomatik,2050000,sentetik
+Mercedes,E Serisi,2021,38000,Benzin,Otomatik,2600000,sentetik
+Mercedes,E Serisi,2023,8000,Benzin,Otomatik,3200000,sentetik
+Honda,Civic,2016,108000,Benzin,Otomatik,580000,sentetik
+Honda,Civic,2018,82000,Benzin,Otomatik,720000,sentetik
+Honda,Civic,2020,48000,Benzin,Otomatik,880000,sentetik
+Honda,Civic,2022,17000,Benzin,Otomatik,1050000,sentetik
+Honda,Civic,2023,6000,Benzin,Otomatik,1180000,sentetik
+Opel,Astra,2015,128000,Dizel,Manuel,400000,sentetik
+Opel,Astra,2017,98000,Dizel,Manuel,480000,sentetik
+Opel,Astra,2019,68000,Benzin,Otomatik,620000,sentetik
+Opel,Astra,2021,32000,Benzin,Otomatik,780000,sentetik
+Skoda,Octavia,2016,112000,Dizel,Manuel,520000,sentetik
+Skoda,Octavia,2018,85000,Dizel,Otomatik,680000,sentetik
+Skoda,Octavia,2020,50000,Benzin,Otomatik,850000,sentetik
+Skoda,Octavia,2022,18000,Benzin,Otomatik,1020000,sentetik
+Fiat,Egea,2016,115000,Dizel,Manuel,420000,sentetik
+Fiat,Egea,2018,88000,Benzin,Manuel,490000,sentetik
+Fiat,Egea,2020,52000,Benzin,Manuel,580000,sentetik
+Fiat,Egea,2022,20000,Benzin,Otomatik,720000,sentetik
+Volkswagen,Passat,2016,225000,Dizel,Otomatik,1599000,gercek
+Renault,Megane,2019,193000,Benzin,Manuel,899000,gercek
+Renault,Clio,2021,180000,Benzin,Otomatik,859000,gercek
+Volkswagen,Passat,2016,217000,Benzin,Otomatik,1525000,gercek
+Ford,Focus,2021,223000,Dizel,Otomatik,1149750,gercek
+Mercedes,C Serisi,2017,193000,Dizel,Otomatik,1760000,gercek
+Audi,A4,2006,325000,Benzin,Manuel,557000,gercek
+Nissan,Pulsar,2016,165000,Dizel,Manuel,795000,gercek
+Honda,Civic,2018,121450,Benzin,Otomatik,1475000,gercek
+Opel,Astra,2023,107000,Dizel,Otomatik,1285000,gercek
+Skoda,SuperB,2013,225000,Dizel,Otomatik,1150000,gercek
+Renault,Clio,2022,87000,Benzin,Otomatik,970000,gercek
+Opel,Insignia,2011,90000,Benzin,Manuel,750000,gercek
+Ford,Focus,2019,164000,Dizel,Otomatik,1065000,gercek
+Fiat,Linea,2015,217000,Dizel,Manuel,430000,gercek
+Renault,Fluence,2013,236800,Dizel,Otomatik,778000,gercek
+Seat,Ibiza,2017,118000,Benzin,Manuel,960000,gercek
+Peugeot,301,2019,235000,Dizel,Manuel,695000,gercek
+Opel,Insignia,2015,142000,Dizel,Otomatik,1049000,gercek
+Kia,Rio,2015,160000,Dizel,Manuel,755000,gercek
+Fiat,Egea,2016,89000,Benzin,Manuel,849000,gercek
+Volkswagen,Polo,2002,244000,Benzin,Manuel,340000,gercek
+Toyota,Corolla,2012,203000,Dizel,Manuel,555000,gercek
+Skoda,SuperB,2012,268000,Dizel,Manuel,875000,gercek
+Peugeot,207,2012,82000,Benzin,Otomatik,775000,gercek
+Dacia,Sandero,2017,87000,Benzin,Manuel,775000,gercek
+Seat,Leon,2019,180000,Dizel,Otomatik,1395000,gercek
+Audi,A3,2020,60000,Benzin,Otomatik,2105000,gercek
+BMW,3 Serisi,1998,266000,Benzin,Otomatik,269750,gercek
+Volkswagen,Golf,2013,265000,Dizel,Manuel,765000,gercek
+Hyundai,i20,2022,78500,Benzin,Manuel,995000,gercek
+Peugeot,308,2008,193000,Benzin,Otomatik,650000,gercek
+Fiat,Linea,2013,133000,Benzin,Manuel,575000,gercek
+Opel,Corsa,2007,205000,Dizel,Manuel,385000,gercek
+Skoda,Fabia,2023,57000,Benzin,Otomatik,1415000,gercek
+BMW,5 Serisi,2016,165000,Benzin,Otomatik,1550000,gercek
+Skoda,SuperB,2018,187000,Dizel,Otomatik,1290000,gercek
+Fiat,Punto,2013,235000,Dizel,Manuel,450000,gercek
+Volkswagen,Jetta,2016,159000,Benzin,Otomatik,1270000,gercek
+Hyundai,i20,2021,132000,Benzin,Otomatik,1175000,gercek
+Opel,Corsa,2023,30000,Benzin,Otomatik,1375000,gercek
+BMW,5 Serisi,2020,205000,Benzin,Otomatik,2800000,gercek
+Citroen,C5,2010,285000,Dizel,Manuel,447000,gercek
+Honda,Civic,2021,56000,Benzin,Otomatik,1880000,gercek
+Hyundai,i20,2016,120000,Dizel,Manuel,965000,gercek
+Opel,Corsa,2024,17000,Benzin,Otomatik,1395000,gercek
+Volkswagen,Polo,2012,188000,Dizel,Manuel,740000,gercek
+Hyundai,Accent Blue,2018,100000,Dizel,Otomatik,1059000,gercek
+Renault,Taliant,2023,80000,Benzin,Otomatik,1000000,gercek
+Seat,Leon,2021,49000,Benzin,Otomatik,1409000,gercek
